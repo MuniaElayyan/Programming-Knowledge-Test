@@ -6,11 +6,13 @@ display:flex;
 
 justify-content:center;
 
-align-items:center;
+align-items:flex-start;
 
 min-height:100vh;
 
-padding:30px;
+padding:20px;
+
+overflow-y:auto;
 
 }
 
